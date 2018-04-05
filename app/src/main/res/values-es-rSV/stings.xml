@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile">Perfil</string>
+    <string name="settings">Configuración</string>
+    <string name="fav">Favoritos</string>
+    <string name="income">Ingresos</string>
+    <string name="t">Presupuesto</string>
+    <string name="exit">Egreso</string>
+
+</resources>
